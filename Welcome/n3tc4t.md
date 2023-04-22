@@ -1,4 +1,4 @@
-# n3tc4t
+# n3tc4t - 1 pt
 >Connectez-vous au service en ligne donné ci-dessous avec la commande netcat pour récupérer le flag.
 
 >nc challenges.france-cybersecurity-challenge.fr 2000
